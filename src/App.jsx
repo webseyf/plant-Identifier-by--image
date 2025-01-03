@@ -8,7 +8,7 @@ import PlantIdentifier from './plantidentifier';
 function App() {
   return (
     <div className="App">
-      <PlantIdentifier/>
+      <PlantIdentifir/>
     </div>
   );
 }
